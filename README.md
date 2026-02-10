@@ -42,6 +42,7 @@ He is the bridge between the high-tech neon of Seoul and the digital sovereignty
 * **Architect**: [Surmount Investment](https://x.com/SurmountInvest)
 * **Frequency**: Kalshi Research Node
 * **Terminal (X)**: [@hamptonism](https://x.com/hamptonism)
+* **SOL**: [hamptonism.sol](https://solscan.io/account/HXzpyNMGLNGqKPd95rCAM5BbLaqMTtXAv4HWJ7ecDNjC)
 
 
 ---
