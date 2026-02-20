@@ -34,7 +34,7 @@ Most recently, I've worked with high-velocity startups like **MetaDAO**, **Trito
 
 * **Terminal (X)**: [@stevensarmi_](https://x.com/stevensarmi_)
 * **Intelligence**: [stevensarmi.com](https://www.stevensarmi.com/)
-* **Chain**: [Solscan Profile](http://solscan.io/account/5eLNw5UFuAxKsfvDCwJv3DNBCy4jEG6TVBqCPTyaFzsZ)
+* **Chain**: [Solscan Profile](http://solscan.io/account/J8qF6wXYYN9J95pPPdBeX8yEgmb66tKcUE3yCSjb8ctV)
 
 ---
 
